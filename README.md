@@ -20,6 +20,9 @@ I'm currently learning DSA along with that after completing my basics in fronten
 ![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)
 ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock&logoColor=%2388CE02)
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhavgupta-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=madhavgupta-prog&theme=dark&hide_border=false)<br/>
@@ -36,5 +39,5 @@ I'm currently learning DSA along with that after completing my basics in fronten
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madhavgupta-prog&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
